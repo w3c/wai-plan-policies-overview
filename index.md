@@ -1,17 +1,19 @@
 ---
-title: "Page Title"
+title: "Planning and Policies Overview"
 permalink: /plan/
 github:
   repository: wai-plan-policies-overview
 footer: > # Text in footer in HTML
-  <p> This is the text in the footer </p>
+  <p><strong>Date:</strong> Updated 27 April 2018.</p>
+  <p><strong>Editor:</strong> <a href="https://www.w3.org/People/Shawn/">Shawn Lawton Henry</a>.</p>
+  <p>Developed with input from the Education and Outreach Working Group (<a href="http://www.w3.org/WAI/EO/">EOWG</a>).</p>
 ---
 
 {::nomarkdown}
 {% include box.html type="start" title="Summary" class="" %}
 {:/}
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quod architecto excepturi incidunt, odit modi quidem deserunt doloremque molestias saepe. Iste dolor non repellendus laudantium! Nihil velit mollitia voluptatem ullam libero.
+This page links to resources on planning and managing accessibility and on web accessibility laws and policies.
 
 {::nomarkdown}
 {% include box.html type="end" %}
