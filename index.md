@@ -30,35 +30,25 @@ This page links to resources on planning and managing accessibility and on web a
 {% include toc.html type="end" %}
 {:/}
 
-## Heading Level 2
+## Planning and Managing Accessibility {#planning}
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ratione placeat ab laboriosam. **Assumenda aut, praesentium (bold)** commodi _nesciunt natus (italic)_ ipsum fugiat [voluptates nisi ipsam voluptas (Link)](https://example.com) recusandae, a. [Sunt eos veritatis numquam (Internal link)]({{ "/permalink/to/page/" | relative_url }})!
+The following resources provide guidance for individual project management and for managing accessibility throughout an organization.
 
-### Heading Level 3
+[Web Accessibility First Aid: Approaches for Interim Repairs]({{ "/plan/interim-repairs/" | relative_url }})
+: Provides a concise overview with pointers to address the most critical issues. Helps with the situation: "I need to make my website accessible and I don't even know where to start!"
 
-1. This is 
-2. a nice
-3. ordered
-4. list.
+[Planning and Managing Web Accessibility]({{ "/planning-and-managing/" | relative_url }})
+: Describes activities to help you integrate accessibility throughout your organization and projects.
 
-#### Heading Level 4
+[Involving Users in Web Projects for Better, Easier Accessibility]({{ "/plan/involving-users/" | relative_url }})
+: Describes how project managers, designers, and developers can better understand accessibility issues and implement more effective accessibility solutions.
 
+## Law and Policy Resources {#policy}
 
-* And this is a
-* bullet list
+The resources below help you find existing laws and policies, and develop a policy for your organization.
 
-- You can use asterisks
-- or dashes. Whatever floats
-- your boat :-)
+[Web Accessibility Laws and Policies]({{ "/policies/" | relative_url }})
+: Lists governmental laws and policies relating to web accessibility in countries and regions around the world.
 
-##### Heading Level 5
-
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ratione placeat ab laboriosam. Assumenda aut, praesentium commodi nesciunt natus ipsum fugiat voluptates nisi ipsam voluptas recusandae, a. Sunt eos veritatis numquam!
-
-## Heading Level 2
-
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ratione placeat ab laboriosam. Assumenda aut, praesentium commodi nesciunt natus ipsum fugiat voluptates nisi ipsam voluptas recusandae, a. Sunt eos veritatis numquam!
-
-### Heading Level 3
-
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ratione placeat ab laboriosam. Assumenda aut, praesentium commodi nesciunt natus ipsum fugiat voluptates nisi ipsam voluptas recusandae, a. Sunt eos veritatis numquam!
+[Developing Organizational Policies on Web Accessibility]({{ "/plan/org-policies/" | relative_url }})
+: Describes considerations when making simple or comprehensive policies for creating, managing, and delivering accessible websites.
