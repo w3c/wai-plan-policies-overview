@@ -42,6 +42,7 @@ The following resources provide guidance for individual project management and f
 
 [Involving Users in Web Projects for Better, Easier Accessibility]({{ "/planning/involving-users/" | relative_url }})
 : Describes how project managers, designers, and developers can better understand accessibility issues and implement more effective accessibility solutions.
+{:.paragraph-like}
 
 ## Law and Policy Resources {#policy}
 
@@ -52,3 +53,4 @@ The resources below help you find existing laws and policies, and develop a poli
 
 [Developing Organizational Policies on Web Accessibility]({{ "/planning/org-policies/" | relative_url }})
 : Describes considerations when making simple or comprehensive policies for creating, managing, and delivering accessible websites.
+{:.paragraph-like}
