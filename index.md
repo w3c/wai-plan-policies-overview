@@ -4,7 +4,7 @@ permalink: /planning/
 github:
   repository: w3c/wai-plan-policies-overview
 footer: > # Text in footer in HTML
-  <p><strong>Date:</strong> Updated 27 April 2018.</p>
+  <p><strong>Date:</strong> Updated 29 November 2018.</p>
   <p><strong>Editor:</strong> <a href="https://www.w3.org/People/Shawn/">Shawn Lawton Henry</a>.</p>
   <p>Developed with input from the Education and Outreach Working Group (<a href="http://www.w3.org/WAI/EO/">EOWG</a>).</p>
 ---
@@ -53,4 +53,7 @@ The resources below help you find existing laws and policies, and develop a poli
 
 [Developing Organizational Policies on Web Accessibility]({{ "/planning/org-policies/" | relative_url }})
 : Describes considerations when making simple or comprehensive policies for creating, managing, and delivering accessible websites.
+
+[Developing an Accessibility Statement]({{ "/planning/statements/" | relative_url }})
+: Helps you create an accessibility statement for your own website, mobile application, or other digital content. 
 {:.paragraph-like}
