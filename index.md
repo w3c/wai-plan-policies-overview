@@ -3,6 +3,7 @@ title: "Planning and Policies Overview"
 permalink: /planning/
 github:
   repository: w3c/wai-plan-policies-overview
+feedbackmail: wai@w3.org
 footer: > # Text in footer in HTML
   <p><strong>Date:</strong> Updated 29 November 2018.</p>
   <p><strong>Editor:</strong> <a href="https://www.w3.org/People/Shawn/">Shawn Lawton Henry</a>.</p>
