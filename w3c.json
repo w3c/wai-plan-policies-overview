@@ -1,5 +1,6 @@
 {
-      "group":      35532
-  ,   "contacts":   ["yatil"]
+      "group":
+  ,   "contacts":   ["yatil", "slhenry"]
+  ,   "repo-type": "article"
   ,   "shortName":  "wai-plan-policies-overview"
   }
