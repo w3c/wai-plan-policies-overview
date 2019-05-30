@@ -1,13 +1,23 @@
 ---
+# Translation info https://www.w3.org/wiki/WAI/Website/Translate
+
 title: "Planning and Policies Overview"
+nav_title: "Overview"
+
+lang: en
+last_update: 2018-11-29
 permalink: /planning/
+
 github:
   repository: w3c/wai-plan-policies-overview
+  path: "index.md"
+
 feedbackmail: wai@w3.org
 footer: > # Text in footer in HTML
   <p><strong>Date:</strong> Updated 29 November 2018.</p>
   <p><strong>Editor:</strong> <a href="https://www.w3.org/People/Shawn/">Shawn Lawton Henry</a>.</p>
   <p>Developed with input from the Education and Outreach Working Group (<a href="http://www.w3.org/WAI/EO/">EOWG</a>).</p>
+ref: /planning/
 ---
 
 {::nomarkdown}
