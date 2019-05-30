@@ -45,13 +45,13 @@ This page links to resources on planning and managing accessibility and on web a
 
 The following resources provide guidance for individual project management and for managing accessibility throughout an organization.
 
-[Web Accessibility First Aid: Approaches for Interim Repairs]({{ "/planning/interim-repairs/" | relative_url }})
+[[Web Accessibility First Aid: Approaches for Interim Repairs]](/planning/interim-repairs/)
 : Provides a concise overview with pointers to address the most critical issues. Helps with the situation: "I need to make my website accessible and I don't even know where to start!"
 
-[Planning and Managing Web Accessibility]({{ "/planning-and-managing/" | relative_url }})
+[[Planning and Managing Web Accessibility]](/planning-and-managing/)
 : Describes activities to help you integrate accessibility throughout your organization and projects.
 
-[Involving Users in Web Projects for Better, Easier Accessibility]({{ "/planning/involving-users/" | relative_url }})
+[[Involving Users in Web Projects for Better, Easier Accessibility]](/planning/involving-users/)
 : Describes how project managers, designers, and developers can better understand accessibility issues and implement more effective accessibility solutions.
 {:.paragraph-like}
 
@@ -59,12 +59,12 @@ The following resources provide guidance for individual project management and f
 
 The resources below help you find existing laws and policies, and develop a policy for your organization.
 
-[Web Accessibility Laws and Policies]({{ "/policies/" | relative_url }})
+[[Web Accessibility Laws and Policies]](/policies/)
 : Lists governmental laws and policies relating to web accessibility in countries and regions around the world.
 
-[Developing Organizational Policies on Web Accessibility]({{ "/planning/org-policies/" | relative_url }})
+[[Developing Organizational Policies on Web Accessibility]](/planning/org-policies/)
 : Describes considerations when making simple or comprehensive policies for creating, managing, and delivering accessible websites.
 
-[Developing an Accessibility Statement]({{ "/planning/statements/" | relative_url }})
+[[Developing an Accessibility Statement]](/planning/statements/)
 : Helps you create an accessibility statement for your own website, mobile application, or other digital content. 
 {:.paragraph-like}
