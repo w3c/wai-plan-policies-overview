@@ -1,22 +1,25 @@
 ---
 # Translation info https://www.w3.org/wiki/WAI/Website/Translate
 
-title: "Planning and Policies Overview"
-nav_title: "Overview"
+title: "Introducción a la planificación y a la normativa"
+nav_title: "Introducción"
 
-lang: en
-last_update: 2018-11-29
-permalink: /planning/
+lang: es
+last_update: 2019-07-23
+permalink: /planning/es
+translators: 
+- name: "Carlos Muncharaz"
+  link: "http://www.muncharaz.eu/"
 
 github:
   repository: w3c/wai-plan-policies-overview
-  path: "index.md"
+  path: "index.es.md"
 
 feedbackmail: wai@w3.org
 footer: > # Text in footer in HTML
-  <p><strong>Date:</strong> Updated 29 November 2018.</p>
-  <p><strong>Editor:</strong> <a href="https://www.w3.org/People/Shawn/">Shawn Lawton Henry</a>.</p>
-  <p>Developed with input from the Education and Outreach Working Group (<a href="http://www.w3.org/WAI/EO/">EOWG</a>).</p>
+  <p><strong>Fecha:</strong> Actualizado el 29 de noviembre del 2018.</p>
+  <p><strong>Editora:</strong> <a href="https://www.w3.org/People/Shawn/">Shawn Lawton Henry</a>.</p>
+  <p>Desarrollado con la colaboración del Grupo de Trabajo de Educación y Difusión (<a href="http://www.w3.org/WAI/EO/">EOWG</a>).</p>
 ref: /planning/
 ---
 
