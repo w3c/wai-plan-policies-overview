@@ -21,17 +21,17 @@ ref: /planning/
 ---
 
 {::nomarkdown}
-{% include box.html type="start" title="Summary" class="" %}
+{% include box.html type="start" title="Resumen" class="" %}
 {:/}
 
-This page links to resources on planning and managing accessibility and on web accessibility laws and policies.
+Esta página enlaza con recursos para planificar y gestionar la accesibilidad, así como con leyes y normas relacionadas con la accesibilidad.
 
 {::nomarkdown}
 {% include box.html type="end" %}
 {:/}
 
 {::nomarkdown}
-{% include toc.html type="start" title="Page Contents" %}
+{% include toc.html type="start" title="Índice de contenidos" %}
 {:/}
 
 - This will be replaced by an automatically generated TOC when using Markdown formatting.
@@ -41,30 +41,30 @@ This page links to resources on planning and managing accessibility and on web a
 {% include toc.html type="end" %}
 {:/}
 
-## Planning and Managing Accessibility {#planning}
+## Planificación y gestión de la accesibilidad {#planning}
 
-The following resources provide guidance for individual project management and for managing accessibility throughout an organization.
+Los siguientes recursos proporcionan orientación para la gestión de proyectos individuales y la gestión de la accesibilidad dentro de una organización.
 
-[[Web Accessibility First Aid: Approaches for Interim Repairs]](/planning/interim-repairs/)
-: Provides a concise overview with pointers to address the most critical issues. Helps with the situation: "I need to make my website accessible and I don't even know where to start!"
+[[Primeros auxilios en accesibilidad web: aproximaciones a reparaciones temporales]](/planning/interim-repairs/)
+: Proporciona un resumen conciso, con consejos para solucionar los problemas más acuciantes. Es de ayuda si se está en la situación siguiente: “tengo que hacer mi sitio web accesible, ¡pero no sé ni cómo empezar!”"
 
-[[Planning and Managing Web Accessibility]](/planning-and-managing/)
-: Describes activities to help you integrate accessibility throughout your organization and projects.
+[[Planificación y gestión de la accesibilidad]](/planning-and-managing/)
+: Describe actividades que pueden ayudarle a integrar la accesibilidad en su organización y proyectos.
 
-[[Involving Users in Web Projects for Better, Easier Accessibility]](/planning/involving-users/)
-: Describes how project managers, designers, and developers can better understand accessibility issues and implement more effective accessibility solutions.
+[[Involucrando a usuarios en proyectos web en pos de una mejor accesibilidad]](/planning/involving-users/)
+: Describe cómo los jefes de proyectos, diseñadores y desarrolladores pueden obtener una mejor compresión de los problemas de accesibilidad e implementar mejores soluciones.
 {:.paragraph-like}
 
-## Law and Policy Resources {#policy}
+## Recursos legales y normativos {#policy}
 
-The resources below help you find existing laws and policies, and develop a policy for your organization.
+Los recursos de abajo le ayudarán a encontrar leyes y normas existentes, así como a desarrollar una política para su organización.
 
-[[Web Accessibility Laws and Policies]](/policies/)
-: Lists governmental laws and policies relating to web accessibility in countries and regions around the world.
+[[Leyes y normas de accesibilidad web]](/policies/)
+: Enumera leyes y normas gubernamentales relacionadas con la accesibilidad en todos los países y regiones del mundo.
 
-[[Developing Organizational Policies on Web Accessibility]](/planning/org-policies/)
-: Describes considerations when making simple or comprehensive policies for creating, managing, and delivering accessible websites.
+[[Desarrollando una política organizativa en torno a la accesibilidad web]](/planning/org-policies/)
+: Describe algunas consideraciones a tener en cuenta a la hora de hacer políticas sencillas o detalladas para crear, gestionar y entregar sitios web accesibles.
 
-[[Developing an Accessibility Statement]](/planning/statements/)
-: Helps you create an accessibility statement for your own website, mobile application, or other digital content. 
+[[Desarrollando una declaración de accesibilidad]](/planning/statements/)
+: Le ayuda a crear una declaración de accesibilidad para su sitio web, aplicación móvil o cualquier otro contenido digital. 
 {:.paragraph-like}
