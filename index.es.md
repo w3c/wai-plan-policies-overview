@@ -34,7 +34,7 @@ Esta página enlaza con recursos para planificar y gestionar la accesibilidad, a
 {:/}
 
 {::nomarkdown}
-{% include toc.html type="start" title="Índice de contenidos" %}
+{% include toc.html type="start" title="Contenidos de la página" %}
 {:/}
 
 - This will be replaced by an automatically generated TOC when using Markdown formatting.
