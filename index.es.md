@@ -5,7 +5,7 @@ title: "Introducción a la planificación y a la normativa"
 nav_title: "Introducción"
 
 lang: es
-last_update: 2019-07-23
+last_updated: 2019-07-23
 permalink: /planning/es
 translators: 
 - name: "Carlos Muncharaz"
