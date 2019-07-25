@@ -5,7 +5,7 @@ title: "Planning and Policies Overview"
 nav_title: "Overview"
 
 lang: en
-last_update: 2018-11-29
+last_updated: 2018-11-29
 permalink: /planning/
 
 github:
