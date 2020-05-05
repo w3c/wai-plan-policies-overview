@@ -60,7 +60,7 @@ The following resources provide guidance for individual project management and f
 
 {% include excol.html type="start" id="video-intro" %}
 
-{% include image.html src="video-thumb-involving-users.png" alt="" class="video tiny" %} Video: Involving Users in Web Accessibility Overview
+**{% include image.html src="video-thumb-involving-users.png" alt="" class="video tiny" %} Video: Involving Users in Web Accessibility Overview**
 
 {% include excol.html type="middle" %}
 
