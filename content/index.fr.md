@@ -15,8 +15,8 @@ translators:
 - name: "Rémi Bétin"
 
 github:
-repository: w3c/wai-plan-policies-overview
-path: "index.fr.md"
+  repository: w3c/wai-plan-policies-overview
+  path: "index.fr.md"
 
 feedbackmail: wai@w3.org
 class: tight-page
@@ -66,7 +66,7 @@ Les ressources suivantes fournissent des conseils pour piloter la prise en compt
 
 {% include excol.html type="start" id="video-intro" %}
 
-**{% include image.html src="video-thumb-involving-users.png" alt="" class="video tiny" %} Vidéo : Impliquer les utilisateurs dans l'accessibilité Web - Vue d'ensemble {#video}**
+**{% include image.html src="video-thumb-involving-users.png" alt="" class="video tiny" %} Vidéo : Impliquer les utilisateurs dans l'accessibilité Web - Vue d'ensemble**
 
 {% include excol.html type="middle" %}
 
