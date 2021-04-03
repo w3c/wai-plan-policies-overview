@@ -10,7 +10,7 @@ permalink: /planning/fr
 
 translators:
 - name: "Sofia Ahmed"
-  contributors:
+contributors:
 - name: "Sandra Velarde Gonzalez (ETNIC)"
 - name: "Rémi Bétin"
 
