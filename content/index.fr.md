@@ -66,13 +66,13 @@ Les ressources suivantes fournissent des conseils pour piloter la prise en compt
 
 {% include excol.html type="start" id="video-intro" %}
 
-## {% include image.html src="video-thumb-involving-users.png" alt="" class="video tiny" %} Vidéo : Impliquer les utilisateurs dans l'accessibilité Web - Vue d'ensemble {#video}
+**{% include image.html src="video-thumb-involving-users.png" alt="" class="video tiny" %} Vidéo : Impliquer les utilisateurs dans l'accessibilité Web - Vue d'ensemble {#video}**
 
 {% include excol.html type="middle" %}
 
 {% include video-player.html
-yt-id="lIA2zTXq_ts"
-captions="/content-images/wai-InvolveUsersEval/involving-users-cc.vtt|en|Captions"
+    yt-id="lIA2zTXq_ts"
+    captions="/content-images/wai-plan-policies-overview/involving-users-cc.vtt"
 %}
 
 _Cette vidéo est aussi disponible sur un serveur du W3C : [Vidéo : Impliquer les utilisateurs dans l'accessibilité Web - Vue d'ensemble (format du fichier : MP4, taille du fichier : 38 Mo)](http://media.w3.org/wai/evaluation-intros/involving-users.mp4)._
