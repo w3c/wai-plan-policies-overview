@@ -10,7 +10,7 @@ permalink: /planning/
 
 github:
   repository: w3c/wai-plan-policies-overview
-  path: "index.md"
+  path: "content/index.md"
 
 feedbackmail: wai@w3.org
 class: tight-page
