@@ -12,15 +12,23 @@ github:
   repository: w3c/wai-plan-policies-overview
   path: "content/index.md"
 
+ref: /planning/    # Translators, do not change this
+changelog: /planning/changelog/
+
 feedbackmail: wai@w3.org
 class: tight-page
+
+# In the footer below:
+# Do not translate or change CHANGELOG.
+# Translate the other words below, including "Date:" and "Editor:"
+# Translate the Working Group name. Leave the Working Group acronym in English.
+# Do not change the dates in the footer below.
 footer: > # Text in footer in HTML
   <p>Note about video description: The video on this page does not include synchronized audio description because the visuals only illustrate the audio and do not provide additional information. In this case, audio description would be more distracting than useful to most people, including people who cannot see the visuals. Description of visual information is integrated in the Text Transcript with Description of Visuals (“descriptive transcript”).</p
-  <p><strong>Date:</strong> Updated 28 April 2020.</p>
+  <p><strong>Date:</strong> Updated 28 April 2020. CHANGELOG.</p>
   <p><strong>Editor:</strong> <a href="https://www.w3.org/People/Shawn/">Shawn Lawton Henry</a>.</p>
-  <p>Developed with input from the Education and Outreach Working Group (<a href="http://www.w3.org/WAI/EO/">EOWG</a>). Video developed by EOWG, with support from the <a href="https://www.w3.org/WAI/about/projects/wai-guide/">WAI-Guide</a> project funded by the European Commission (EC) under the Horizon 2020 program (Grant Agreement 822245). <a href="./acknowledgements/">Acknowledgements</a>.</p>
+  <p>Developed with input from the Education and Outreach Working Group (<a href="http://www.w3.org/WAI/EO/">EOWG</a>). Video developed by EOWG, with support from the <a href="https://www.w3.org/WAI/about/projects/wai-guide/">WAI-Guide</a> project funded by the European Commission (EC) under the Horizon 2020 program (Grant Agreement 822245). <a href="/test-evaluate/acknowledgements/">Acknowledgements</a>.</p>
 
-ref: /planning/
 ---
 
 {::nomarkdown}
