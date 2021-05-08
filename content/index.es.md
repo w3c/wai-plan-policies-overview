@@ -13,7 +13,7 @@ translators:
 
 github:
   repository: w3c/wai-plan-policies-overview
-  path: "content/index.fr.md"
+  path: "content/index.es.md"
 
 ref: /planning/    # Translators, do not change this
 changelog: /planning/changelog/
