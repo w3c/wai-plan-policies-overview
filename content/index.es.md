@@ -17,7 +17,6 @@ github:
 
 ref: /planning/    # Translators, do not change this
 changelog: /planning/changelog/
-
 feedbackmail: wai@w3.org
 class: tight-page
 
