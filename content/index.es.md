@@ -5,7 +5,7 @@ title: "Introducción a la planificación y a la normativa"
 nav_title: "Introducción"
 
 lang: es
-last_updated: 2019-07-23
+last_updated: 2021-05-15
 permalink: /planning/es
 translators: 
 - name: "Carlos Muncharaz"
@@ -27,10 +27,10 @@ class: tight-page
 # Translate the Working Group name. Leave the Working Group acronym in English.
 # Do not change the dates in the footer below.
 footer: > # Text in footer in HTML
-  <p>Note about video description: The video on this page does not include synchronized audio description because the visuals only illustrate the audio and do not provide additional information. In this case, audio description would be more distracting than useful to most people, including people who cannot see the visuals. Description of visual information is integrated in the Text Transcript with Description of Visuals (“descriptive transcript”).</p
+  <p>Nota sobre la descripción del vídeo: El vídeo de esta página no contiene audiodescripción sincronizada porque las imágenes se limitan a ilustrar el contenido sonoro y no proporcionan información adicional. En este caso, la audiodescripción generaría más confusión y no sería útil para la mayoría de la gente, incluyendo las personas que no pueden ver las imágenes. La descripción de las imágenes está incluida en la "transcripción textual con descripción de imágenes" (transcripción descriptiva).</p>
   <p><strong>Fecha:</strong> Actualizado el 7 de mayo del 2021. CHANGELOG.</p>
   <p><strong>Editora:</strong> <a href="https://www.w3.org/People/Shawn/">Shawn Lawton Henry</a>.</p>
-  <p>Desarrollado con la colaboración del Grupo de Trabajo de Educación y Difusión (<a href="http://www.w3.org/WAI/EO/">EOWG</a>). Video developed by EOWG, with support from the <a href="https://www.w3.org/WAI/about/projects/wai-guide/">WAI-Guide</a> project funded by the European Commission (EC) under the Horizon 2020 program (Grant Agreement 822245). <a href="/test-evaluate/acknowledgements/">Acknowledgements</a>.</p>
+  <p>Desarrollado con la colaboración del Grupo de Trabajo de Educación y Difusión (<a href="http://www.w3.org/WAI/EO/">EOWG</a>). Vídeo desarrollado por EOWG, con apoyo de <a href="https://www.w3.org/WAI/about/projects/wai-guide/">WAI-Guide</a>, proyecto subvencionado por la Comisión Europea (CE) a través del programa Horizon 2020 (Convenio 822245). <a href="/test-evaluate/acknowledgements/">Reconocimientos</a>.</p>
 ---
 
 {::nomarkdown}
@@ -70,7 +70,7 @@ Los siguientes recursos proporcionan orientación para la gestión de proyectos 
 
 {% include excol.html type="start" id="video-intro" %}
 
-**{% include image.html src="video-thumb-involving-users.png" alt="" class="video tiny" %} Video: Involving Users in Web Accessibility Overview**
+**{% include image.html src="video-thumb-involving-users.png" alt="" class="video tiny" %} Vídeo: Involucrando a usuarios en la accesibilidad web**
 
 {% include excol.html type="middle" %}
 
@@ -79,11 +79,11 @@ Los siguientes recursos proporcionan orientación para la gestión de proyectos 
     captions="/content-images/wai-plan-policies-overview/involving-users-cc.vtt"
 %}
 
-_This video is also available on a W3C server: [Video: Involving Users in Web Accessibility Overview (file format: MP4, file size: 38MB)](http://media.w3.org/wai/evaluation-intros/involving-users.mp4)._
+_Este vídeo también está disponible en un servidor del W3C: [Vídeo: Involucrando a usuarios en la accesibilidad web (formato: MP4, tamaño: 38MB)](http://media.w3.org/wai/evaluation-intros/involving-users.mp4)._
 
 {% include excol.html type="start" id="video-intro-transcript" %}
 
-Text Transcript with Description of Visuals
+Transcripción textual con descripción de imágenes
 
 {% include excol.html type="middle" %}
 
@@ -91,70 +91,69 @@ Text Transcript with Description of Visuals
   <thead>
     <tr>
       <th width="65%">Audio</th>
-      <th>Visual</th>
+      <th>Imagen</th>
     </tr>
   </thead>
 <tbody>
   <tr>
-    <td>Involving users in web accessibility. </td>
-    <td>Involving users in web accessibility.</td>
+    <td>Involucrando a usuarios en la accesibilidad web.</td>
+    <td>Involucrando a usuarios en la accesibilidad web.</td>
   </tr>
   <tr>
-    <td>Accessibility is about making your websites and applications usable by people with disabilities. That includes your customers, clients, employees, students, and others. </td>
-    <td>Accessibility. A person in front of a computer. Next to the computer the words: customers; clients; employees; and students.</td>
+    <td>La accesibilidad consiste en hacer sitios web y aplicaciones que pueden ser usados por personas con discapacidad. Esto incluye a tus clientes, empleados, estudiantes y otros.</td>
+    <td>Accesibilidad. Una persona frente a un ordenador. Al lado del ordenador, las palabras: clientes, empleados y estudiantes.</td>
   </tr>
   <tr>
-    <td>Unfortunately many approach accessibility just as a checklist. This risks missing the real purpose of accessibility - the user experience. </td>
-    <td>A checklist replaces the person. The website on the screen crumbles. 4 people replace the computer and checklist.</td>
+    <td>Desafortunadamente, muchos se toman la accesibilidad como una lista de tareas a completar. De esta forma, se arriesgan a perder el auténtico objetivo de la accesibilidad: la experiencia del usuario.</td>
+    <td>Una lista de tareas sustituye a la persona. El sitio web en pantalla se desmorona. Cuatro personas aparecen en lugar del ordenador y la lista de tareas.</td>
   </tr>
   <tr>
-    <td>Involving people with disabilities throughout your design and development process can be more effective and yield better results:
+    <td>Involucrar a personas con discapacidad en tu proceso de diseño y desarrollo puede ser más efectivo y producir mejores resultados:
       <ul>
-        <li> designers and developers learn how people with disabilities use the web, and understand assistive technologies and adaptive strategies they use;</li>
+        <li>Los diseñadores y desarrolladores pueden aprender cómo usan la web las personas con discapacidad y comprender las tecnologías de apoyo y estrategias adaptativas que usan.</li>
       </ul></td>
-    <td>The group of people are surrounded by icons inserted in a development process cycle:  pen icon; coding icon; paintbrush icon; and a magnifying glass icon. 
-Smaller versions of these people are integrated in the process cycle.</td>
+    <td>El grupo de personas es rodeado por icónos representando el ciclo del proceso de desarrollo: un lápiz, símbolos de código, un pincel y una lupa. Miniaturas de las personas aparecen junto a las líneas que representan el ciclo.</td>
   </tr>
   <tr>
-    <td>(continued list)
+    <td>(continuación de la lista)
       <ul>
-        <li> the project team is more motivated when they understand how their work impacts people's lives;</li>
+        <li> el equipo está más motivado cuando entiende cómo su trabajo afecta a la vida de otras personas;</li>
       </ul></td>
-    <td>The process icons remain as the people are replaced with a motivation gauge.</td>
+    <td>Los icónos del proceso se mantienen mientras que las personas son sustituidas por un medidor de motivación.</td>
   </tr>
   <tr>
-    <td>(continued list)
+    <td>(continuación de la lista)
       <ul>
-        <li> development is more efficient, and your products work better for more people, with and without disability;</li>
+        <li> el desarrollo es más eficiente y tus productos funcionan mejor para más gente, con o sin discapacidad;</li>
       </ul></td>
-    <td>The process icons remain as the gauge is replaced with a graph showing an upward trend in results. The chart is replaced with multiple people figures.</td>
+    <td>Los icónos del proceso se mantienen mientras que el medidor de motivación es sustituido por in gráfico mostrando una tendencia ascendente como resultado. El gráfico es sustituido por varias figuras de personas.</td>
   </tr>
   <tr>
-    <td>(continued list)
+    <td>(continuación de la lista)
       <ul>
-        <li> your resulting products are more inclusive and reach a bigger audience, have higher customer satisfaction, and demonstrate social responsibility.</li>
+        <li> tus productos finales son más inclusivos y alcanzan una audiencia mayor, tienen mayor satisfacción del cliente y demuestran responsabilidad social.</li>
       </ul></td>
-    <td>The people increase in numbers as the process icons are removed. A 5 star rating appears above the people to get all 5 stars filled. The people transition into a globe with a heart in the middle.</td>
+    <td>Las personas aumentan en número y los icónos del proceso desaparecen. Un sistema de puntuación de cinco estrellas aparece sobre las personas y obtiene las cinco estrellas. Una transición nos lleva de las personas a un globo terrestre con un corazón en el centro.</td>
   </tr>
   <tr>
-    <td>"Involving Users in Web Projects for Better, Easier Accessibility" provides guidance on project planning, and throughout the design and development process. </td>
-    <td>Involving Users in Web Projects for Better, Easier Accessibility. The development process cycle with icons appears.</td>
+    <td>"Involucrando a usuarios en proyectos web para mejorar y facilitar la accesibilidad" ofrece orientación en la planificación de proyectos y durante todo el proceso de diseño y desarrollo.</td>
+    <td>Involucrando a usuarios en proyectos web para mejorar y facilitar la accesibilidad. Vuelve a aparecer el ciclo del proceso de desarrollo con sus icónos.</td>
   </tr>
   <tr>
-    <td>"Involving Users in Evaluating Web Accessibility" provides more specific guidance on the evaluation stage of the process. </td>
-    <td>Involving Users in Evaluating Web Accessibility. The icons in the process cycle are focused in turn with a magnifying glass.</td>
+    <td>"Involucrando a usuarios en la accesibilidad web" ofrece orientación más específica para la fase de evaluación del proceso.</td>
+    <td>Involucrando a usuarios en la accesibilidad web. Los icónos del ciclo del proceso son destacados, por turnos, aumentado de tamaño.</td>
   </tr>
   <tr>
-    <td>Together these resources help you focus on accessibility for your website users rather than focusing on technical requirements only. </td>
-    <td>Involving Users in Evaluating Web Accessibility and Involving Users in Web Projects for Better, Easier Accessibility. merge into a person in front of the computer. On the screen, passes and fails are marked.</td>
+    <td>La combinación de estos recursos te permite centrarte en la accesibilidad del sitio para tus usuarios en lugar de requisitos técnicos solamente.</td>
+    <td>"Involucrando a usuarios en la accesibilidad web" e "Involucrando a usuarios en proyectos web para mejorar y facilitar la accesibilidad" se funden en una persona frente al ordenador. La pantalla muestra marcas de verificación y de error.</td>
   </tr>
   <tr>
-    <td>Web accessibility: essential for some, useful for all </td>
-    <td>Icons around a computer: hand; eye; brain; ear; and mouth with sound waves.</td>
+    <td>Accesibilidad web: esencial para algunos, útil para todos </td>
+    <td>Iconos alrededor de un ordenador: mano, ojo, cerebro, oreja y boca con ondas sonoras.</td>
   </tr>
   <tr>
-    <td>For information on involving users in web accessibility, visit w3.o-r-g/W-A-I/involve-users. </td>
-    <td>Involving Users in Web Accessibility, W3C and Web Accessibility Initiative (WAI) logos.</td>
+    <td>Para obtener más información en cómo involucrar usuarios en la accesibilidad web, visita w3.o-r-g/W-A-I/involve-users. </td>
+    <td>Involucrando a usuarios en la accesibilidad web, logotipos de W3C y Web Accessibility Initiative (WAI).</td>
   </tr>
 </tbody>
 </table>
