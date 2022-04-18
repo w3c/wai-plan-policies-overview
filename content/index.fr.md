@@ -141,11 +141,11 @@ Ces personnes sont intégrées en plus petit dans le processus.</td>
     <td>Le nombre des personnes croît et les icônes représentant le processus disparaissent. Un classement à cinq étoiles apparaît au-dessus des personnes et les cinq étoiles se remplissent. Les personnes laissent place à une Terre contenant un cœur en son milieu.</td>
   </tr>
   <tr>
-    <td>"Impliquer les utilisateurs dans les projets Web pour améliorer et faciliter l’accessibilité" fournit des conseils pour organiser un projet, et un accompagnement tout au long du processus de conception et de développement. </td>
+    <td>« Impliquer les utilisateurs dans les projets Web pour améliorer et faciliter l’accessibilité » fournit des conseils pour organiser un projet, et un accompagnement tout au long du processus de conception et de développement. </td>
     <td>Impliquer les utilisateurs dans les projets Web pour améliorer et faciliter l’accessibilité. Le cycle représentant le processus de développement, qui inclut les icônes, apparaît.</td>
   </tr>
   <tr>
-    <td>"Impliquer les utilisateurs dans l’évaluation de l’accessibilité Web" fournit une aide plus spécifique sur l’étape d’évaluation du processus. </td>
+    <td>« Impliquer les utilisateurs dans l’évaluation de l’accessibilité Web » fournit une aide plus spécifique sur l’étape d’évaluation du processus. </td>
     <td>Impliquer les utilisateurs dans l’évaluation de l’accessibilité Web. Les icônes du cycle représentant le processus sont mises en avant tour à tour à l’aide d’une loupe.</td>
   </tr>
   <tr>
