@@ -62,14 +62,14 @@ Cette page renvoie à des ressources sur la planification et la gestion des dém
 
 Les ressources suivantes fournissent des conseils pour piloter la prise en compte de l’accessibilité dans un projet individuel ou à l’échelle de toute une organisation.
 
-[[Questions urgentes en matière d’accessibilité Web : des solutions provisoires]](/planning/interim-repairs/) :
- Fournit un bref aperçu et des conseils pour aborder les problèmes les plus critiques. Vous aide si vous avez besoin de rendre votre site Web accessible et que vous ne savez pas par où commencer.
+[[Questions urgentes en matière d’accessibilité Web : des solutions provisoires]](/planning/interim-repairs/)
+: Fournit un bref aperçu et des conseils pour aborder les problèmes les plus critiques. Vous aide si vous avez besoin de rendre votre site Web accessible et que vous ne savez pas par où commencer.
 
-[[Planification et pilotage de la prise en compte de l’accessibilité Web]](/planning-and-managing/) :
- Décrit des activités pour vous aider à intégrer l’accessibilité au sein de votre organisation et de vos projets.
+[[Planification et pilotage de la prise en compte de l’accessibilité Web]](/planning-and-managing/)
+: Décrit des activités pour vous aider à intégrer l’accessibilité au sein de votre organisation et de vos projets.
 
-[[Inclure les utilisateurs dans vos projets Web pour une accessibilité plus optimale et plus facile]](/planning/involving-users/) :
- Décrit comment les chefs de projet, les designers et les développeurs peuvent mieux comprendre les problèmes d’accessibilité et implémenter des solutions d’accessibilité plus efficaces.
+[[Inclure les utilisateurs dans vos projets Web pour une accessibilité plus optimale et plus facile]](/planning/involving-users/)
+: Décrit comment les chefs de projet, les designers et les développeurs peuvent mieux comprendre les problèmes d’accessibilité et implémenter des solutions d’accessibilité plus efficaces.
 {:.paragraph-like}
 
 {% include excol.html type="start" id="video-intro" %}
@@ -171,12 +171,12 @@ Ces personnes sont intégrées en plus petit dans le processus.</td>
 
 Les ressources ci-dessous vous aident à trouver les lois et les politiques d’accessibilité existantes, et à développer une politique d’accessibilité pour votre organisation.
 
-[[Lois et politiques d’accessibilité Web]](/policies/) :
- Liste les lois et les politiques gouvernementales relatives à l’accessibilité Web dans les pays et les régions du monde entier.
+[[Lois et politiques d’accessibilité Web]](/policies/)
+: Liste les lois et les politiques gouvernementales relatives à l’accessibilité Web dans les pays et les régions du monde entier.
 
-[[Développement de politiques organisationnelles en matière d’accessibilité Web]](/planning/org-policies/) :
- Décrit les considérations à prendre en compte lors de l’élaboration de politiques simples ou complètes pour créer, gérer, et livrer un site Web accessible.
+[[Développement de politiques organisationnelles en matière d’accessibilité Web]](/planning/org-policies/)
+: Décrit les considérations à prendre en compte lors de l’élaboration de politiques simples ou complètes pour créer, gérer, et livrer un site Web accessible.
 
-[[Mettre au point une déclaration sur l’accessibilité]](/planning/statements/) :
- Vous aide à créer une déclaration sur l’accessibilité pour votre propre site web, votre application mobile, ou d’autres contenus numériques.
+[[Mettre au point une déclaration sur l’accessibilité]](/planning/statements/)
+: Vous aide à créer une déclaration sur l’accessibilité pour votre propre site web, votre application mobile, ou d’autres contenus numériques.
 {:.paragraph-like}
