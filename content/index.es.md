@@ -1,6 +1,4 @@
 ---
-# Translation info https://www.w3.org/wiki/WAI/Website/Translate
-
 title: "Introducción a la planificación y a la normativa"
 nav_title: "Introducción"
 
