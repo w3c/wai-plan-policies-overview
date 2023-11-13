@@ -72,9 +72,9 @@ Los siguientes recursos proporcionan orientación para la gestión de proyectos 
 
 {% include excol.html type="middle" %}
 
-{% include video-player.html
+{% include video-player-data.html
+    video-id="involving-users"
     yt-id="lIA2zTXq_ts"
-    captions="/content-images/wai-plan-policies-overview/involving-users-cc.vtt"
 %}
 
 _Este vídeo también está disponible en un servidor del W3C: [Vídeo: Involucrando a usuarios en la accesibilidad web (formato: MP4, tamaño: 38MB)](http://media.w3.org/wai/evaluation-intros/involving-users.mp4)._

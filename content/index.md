@@ -70,9 +70,9 @@ The following resources provide guidance for individual project management and f
 
 {% include excol.html type="middle" %}
 
-{% include video-player.html
+{% include video-player-data.html
+    video-id="involving-users"
     yt-id="lIA2zTXq_ts"
-    captions="/content-images/wai-plan-policies-overview/involving-users-cc.vtt"
 %}
 
 _This video is also available on a W3C server: [Video: Involving Users in Web Accessibility Overview (file format: MP4, file size: 38MB)](http://media.w3.org/wai/evaluation-intros/involving-users.mp4)._
