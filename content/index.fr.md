@@ -76,9 +76,9 @@ Les ressources suivantes fournissent des conseils pour piloter la prise en compt
 
 {% include excol.html type="middle" %}
 
-{% include video-player.html
+{% include video-player-data.html
+    video-id="involving-users"
     yt-id="lIA2zTXq_ts"
-    captions="/content-images/wai-plan-policies-overview/involving-users-cc.vtt"
 %}
 
 _Cette vidéo est aussi disponible sur un serveur du W3C : [Vidéo : Impliquer les utilisateurs dans l’accessibilité Web - Vue d’ensemble (format du fichier : MP4, taille du fichier : 38 Mo)](http://media.w3.org/wai/evaluation-intros/involving-users.mp4)._
