@@ -1,5 +1,6 @@
-# wai-plan-policies-overview
+# Plan & Policies Overview
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/66056a10-8416-4523-bab0-592ca88dfb43/deploy-status)](https://app.netlify.com/sites/wai-plan-policies-overview/deploys)
-
-Preview: https://wai-plan-policies-overview.netlify.com/
+> [!IMPORTANT]
+> This repository has been archived 26 April 2024.
+>
+> [Plan and Policies Overview](https://www.w3.org/WAI/planning/) is now edited in the [wai-website](https://github.com/w3c/wai-website) repository.
